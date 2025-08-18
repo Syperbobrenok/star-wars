@@ -8,7 +8,7 @@ const Friend = ({friend, pos}) => {
     }
     return (
         <img className={styles} src={friend} alt="Friend"/>
-    );
-};
+    )
+}
 
 export default Friend;
